@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83345835774",
+    "project_id": "quraanapp-5312e",
+    "storage_bucket": "quraanapp-5312e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83345835774:android:03a02a4a6ebe81860d47af",
+        "android_client_info": {
+          "package_name": "com.example.quraanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANV9XTIUo9VWw3DBgrZ5X7TF-qcyH5X4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
