@@ -1,6 +1,6 @@
 # quraanapp
 
-A new Flutter project.
+Developed a Flutter-based app enabling users to log in, access the Quran, and record recitation. AI-powered speech recognition detects errors in real time, stops recording, highlights mistakes, and plays corrections. Integrated Firebase for authentication, storage, and real-time database. Tech: Flutter, Dart, Firebase, AI/ML for speech recognition.
 
 ## Getting Started
 
